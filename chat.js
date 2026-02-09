@@ -1,4 +1,4 @@
-// api/chat.js - Vercel Serverless Function
+/ api/chat.js - Vercel Serverless Function
 // Uses OpenRouter (sk-or-v1- keys) to access DeepSeek
 
 const DEEPSEEK_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
