@@ -1,0 +1,21 @@
+{
+  "name": "dental-chatbot-backend",
+  "version": "1.0.0",
+  "description": "AI-powered dental appointment booking chatbot backend",
+  "main": "api/chat.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "chatbot",
+    "dental",
+    "ai",
+    "deepseek",
+    "appointments"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
